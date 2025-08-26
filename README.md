@@ -1,5 +1,5 @@
 # Password_judge
-A basic python program to check the strength of the password
+A basic python program to check the strength of the  password...
 
 Here's the GitHub-ready Markdown file for your password strength analyzer.
 
