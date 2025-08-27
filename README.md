@@ -35,3 +35,5 @@ Score <= 2: Weak
 Score > 2 and <= 5: Medium
 
 Score > 5: Strong
+
+## This is note 1 for this projects , next versions will be coming....
